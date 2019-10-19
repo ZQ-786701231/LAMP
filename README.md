@@ -35,6 +35,7 @@ vi /var/www/html/info.php
 php
 
 phpinfo(); 
+?>
 
 # press ESC and input:wq!,enter.
 service httpd restart
