@@ -1,6 +1,4 @@
-# LAMP
-How to install LAMP on CentOS6 
-
+# How to install LAMP on CentOS6 
 
 # Step One—Install Apache:
 yum install httpd
@@ -24,11 +22,8 @@ sudo mysql_secure_installation
 
 # Step Three—Install PHP:
 yum install php php-mysql
-
 yum search php-
-
 yum info php-fpm
-
 yum install php-fpm
 # To set this up, first create a new file:
 vi /var/www/html/info.php
