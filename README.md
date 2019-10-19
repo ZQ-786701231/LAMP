@@ -35,7 +35,8 @@ vi /var/www/html/info.php
 
 php
 
-phpinfo(); 
+phpinfo();
+
 ?>
 
 # press ESC and input:wq!,enter.
