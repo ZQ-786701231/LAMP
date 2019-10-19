@@ -45,7 +45,7 @@ vi /var/www/html/info.php
 ```
 Add in the following line:
 ```
- <?php
+<?php
 
 phpinfo();
 
@@ -56,3 +56,4 @@ press ESC and input:wq!,enter.
 ```
 service httpd restart
 ```
+Finish up by visiting your php info page (make sure you replace the example ip address with your correct one): http://12.34.56.789/info.php
