@@ -1,5 +1,4 @@
 # How To Install LAMP On CentOS7 
-
 # Step One—Install Apache:
 ```
 yum install httpd
