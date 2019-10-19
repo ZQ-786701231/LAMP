@@ -32,8 +32,8 @@ yum install php-fpm
 # To set this up, first create a new file:
 vi /var/www/html/info.php
 # Add in the following line:
+<?
 php
-
 phpinfo(); 
 ?>
 
