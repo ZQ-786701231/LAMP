@@ -34,6 +34,7 @@ vi /var/www/html/info.php
 # Add in the following line:
 <?
 php
+
 phpinfo(); 
 ?>
 
