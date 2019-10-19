@@ -10,7 +10,9 @@ ip addr(or ifconfig)
 
 # Step Two—Install MySQL:
 yum update
+
 yum install mysql-server
+
 service mysqld start
 # During the installation, MySQL will ask you for your permission twice. After you say Yes to both, MySQL will install.
 sudo mysql_secure_installation
